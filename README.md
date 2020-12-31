@@ -3,19 +3,16 @@
 ***This is an innovative AI solution/model that can
 provide insights and directional cues***
 
-# Team Name:
+# Team Name
 
 ***Gang Tech***
 
-***Team Memebers:***
+# Team Memebers
 
-  1.S.Uthpreksha
-  
-  2.P.Shiva Padmaja
-  
-  3.P.Sarvani
-  
-  4.V.Rakesh
+  1.S.Uthpreksha<br>
+  2.P.Shiva Padmaja<br>
+  3.P.Sarvani<br>
+  4.V.Rakesh<br>
 
 ***Problem Statement:***
 
