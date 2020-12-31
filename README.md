@@ -31,3 +31,8 @@ containerization***
 ![img2](https://user-images.githubusercontent.com/72642273/103418306-11d06a80-4bb4-11eb-8991-13b94c5df4a6.PNG)
 
 # Covid-19 cases district and state level
+
+![img3](https://user-images.githubusercontent.com/72642273/103418440-a2a74600-4bb4-11eb-99e0-6e73480c128e.PNG)
+
+# Covid-19 cases day wise
+
