@@ -36,3 +36,7 @@ containerization***
 
 # Covid-19 cases day wise
 
+![img4](https://user-images.githubusercontent.com/72642273/103418470-cd919a00-4bb4-11eb-9731-0a57b5bca445.PNG)
+
+# tests day wise
+
