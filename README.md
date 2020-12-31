@@ -20,6 +20,10 @@ provide insights and directional cues***
 
 # Solution
 
-***We have collected covid dataset and population data set all over country and we can select the databases as per the requirements.***
+***The proposed AI algorithm/solution
+should preferably have a user interface (e.g. web
+enabled) to interact with data for visualization and
+analysis and support for API integration and
+containerization (K8s/ Docker are encouraged)***
 
 
