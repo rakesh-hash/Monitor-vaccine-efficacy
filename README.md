@@ -16,7 +16,7 @@ provide insights and directional cues***
 
 # Problem Statement
 
-***Monitor-vaccine-efficacy***
+***Track vaccine efficacy with AI enabled vaccine monitoring.***
 
 # Solution
 
