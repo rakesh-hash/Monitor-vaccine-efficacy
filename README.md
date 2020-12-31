@@ -24,6 +24,6 @@ provide insights and directional cues***
 should preferably have a user interface (e.g. web
 enabled) to interact with data for visualization and
 analysis and support for API integration and
-containerization (K8s/ Docker are encouraged)***
+containerization***
 
 
