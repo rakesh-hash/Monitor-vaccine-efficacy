@@ -27,5 +27,5 @@ analysis and support for API integration and
 containerization***
 
 # State wise and district wise population density
-file:///C:/Users/Shiva%20Padmaja/Desktop/img2.PNG
 
+![Happy Christmas](img2.png)
