@@ -1,6 +1,7 @@
 # Monitor-vaccine-efficacy
 
-***This is our web page***
+***This is an innovative AI solution/model that can
+provide insights and directional cues***
 
 # Team Name:
 
