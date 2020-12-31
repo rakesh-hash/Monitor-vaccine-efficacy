@@ -38,6 +38,6 @@ containerization***
 
 ![img4](https://user-images.githubusercontent.com/72642273/103418470-cd919a00-4bb4-11eb-9731-0a57b5bca445.PNG)
 
-# tests day wise
+# Tests day wise
 
 ![img1](https://user-images.githubusercontent.com/72642273/103418480-da15f280-4bb4-11eb-9a78-cd314cc57c3d.PNG)
